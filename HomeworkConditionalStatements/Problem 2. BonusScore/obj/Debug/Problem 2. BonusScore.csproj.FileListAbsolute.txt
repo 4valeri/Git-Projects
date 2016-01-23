@@ -1,0 +1,5 @@
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 2. BonusScore\bin\Debug\Problem_2.BonusScore.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 2. BonusScore\bin\Debug\Problem_2.BonusScore.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 2. BonusScore\bin\Debug\Problem_2.BonusScore.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 2. BonusScore\obj\Debug\Problem_2.BonusScore.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 2. BonusScore\obj\Debug\Problem_2.BonusScore.pdb

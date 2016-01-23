@@ -1,0 +1,5 @@
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 5. TheBiggestof3Numbers\bin\Debug\Problem_5.TheBiggestof3Numbers.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 5. TheBiggestof3Numbers\bin\Debug\Problem_5.TheBiggestof3Numbers.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 5. TheBiggestof3Numbers\bin\Debug\Problem_5.TheBiggestof3Numbers.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 5. TheBiggestof3Numbers\obj\Debug\Problem_5.TheBiggestof3Numbers.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 5. TheBiggestof3Numbers\obj\Debug\Problem_5.TheBiggestof3Numbers.pdb

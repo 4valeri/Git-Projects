@@ -1,0 +1,5 @@
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 6. TheBiggestofFiveNumbers\bin\Debug\Problem_6.TheBiggestofFiveNumbers.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 6. TheBiggestofFiveNumbers\bin\Debug\Problem_6.TheBiggestofFiveNumbers.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 6. TheBiggestofFiveNumbers\bin\Debug\Problem_6.TheBiggestofFiveNumbers.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 6. TheBiggestofFiveNumbers\obj\Debug\Problem_6.TheBiggestofFiveNumbers.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 6. TheBiggestofFiveNumbers\obj\Debug\Problem_6.TheBiggestofFiveNumbers.pdb

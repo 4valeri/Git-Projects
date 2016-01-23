@@ -1,0 +1,6 @@
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 1. ExchangeIfGreater1\bin\Debug\Problem_1.ExchangeIfGreater1.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 1. ExchangeIfGreater1\bin\Debug\Problem_1.ExchangeIfGreater1.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 1. ExchangeIfGreater1\bin\Debug\Problem_1.ExchangeIfGreater1.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 1. ExchangeIfGreater1\obj\Debug\Problem 1. ExchangeIfGreater1.csprojResolveAssemblyReference.cache
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 1. ExchangeIfGreater1\obj\Debug\Problem_1.ExchangeIfGreater1.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 1. ExchangeIfGreater1\obj\Debug\Problem_1.ExchangeIfGreater1.pdb

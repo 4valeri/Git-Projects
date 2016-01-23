@@ -1,0 +1,5 @@
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 8. DigitasWord\bin\Debug\Problem_8.DigitasWord.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 8. DigitasWord\bin\Debug\Problem_8.DigitasWord.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 8. DigitasWord\bin\Debug\Problem_8.DigitasWord.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 8. DigitasWord\obj\Debug\Problem_8.DigitasWord.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 8. DigitasWord\obj\Debug\Problem_8.DigitasWord.pdb

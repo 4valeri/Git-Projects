@@ -1,0 +1,5 @@
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 3. CheckforaPlayCard\bin\Debug\Problem_3.CheckforaPlayCard.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 3. CheckforaPlayCard\bin\Debug\Problem_3.CheckforaPlayCard.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 3. CheckforaPlayCard\bin\Debug\Problem_3.CheckforaPlayCard.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 3. CheckforaPlayCard\obj\Debug\Problem_3.CheckforaPlayCard.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkConditionalStatements\Problem 3. CheckforaPlayCard\obj\Debug\Problem_3.CheckforaPlayCard.pdb
