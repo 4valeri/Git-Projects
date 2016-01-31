@@ -1,0 +1,5 @@
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\11.CountOfLetters\bin\Debug\11.CountOfLetters.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\11.CountOfLetters\bin\Debug\11.CountOfLetters.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\11.CountOfLetters\bin\Debug\11.CountOfLetters.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\11.CountOfLetters\obj\Debug\11.CountOfLetters.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\11.CountOfLetters\obj\Debug\11.CountOfLetters.pdb

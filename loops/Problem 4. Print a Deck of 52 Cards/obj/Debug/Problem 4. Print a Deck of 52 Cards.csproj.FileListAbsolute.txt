@@ -1,0 +1,6 @@
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 4. Print a Deck of 52 Cards\bin\Debug\Problem_4.Print_a_Deck_of_52_Cards.exe.config
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 4. Print a Deck of 52 Cards\bin\Debug\Problem_4.Print_a_Deck_of_52_Cards.exe
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 4. Print a Deck of 52 Cards\bin\Debug\Problem_4.Print_a_Deck_of_52_Cards.pdb
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 4. Print a Deck of 52 Cards\obj\Debug\Problem 4. Print a Deck of 52 Cards.csprojResolveAssemblyReference.cache
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 4. Print a Deck of 52 Cards\obj\Debug\Problem_4.Print_a_Deck_of_52_Cards.exe
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 4. Print a Deck of 52 Cards\obj\Debug\Problem_4.Print_a_Deck_of_52_Cards.pdb

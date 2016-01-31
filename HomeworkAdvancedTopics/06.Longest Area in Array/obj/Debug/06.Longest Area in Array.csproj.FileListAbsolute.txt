@@ -1,0 +1,5 @@
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\06.Longest Area in Array\bin\Debug\06.Longest Area in Array.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\06.Longest Area in Array\bin\Debug\06.Longest Area in Array.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\06.Longest Area in Array\bin\Debug\06.Longest Area in Array.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\06.Longest Area in Array\obj\Debug\06.Longest Area in Array.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\06.Longest Area in Array\obj\Debug\06.Longest Area in Array.pdb

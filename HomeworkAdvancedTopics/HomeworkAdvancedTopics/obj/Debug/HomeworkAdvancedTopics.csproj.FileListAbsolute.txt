@@ -1,0 +1,6 @@
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\HomeworkAdvancedTopics\bin\Debug\HomeworkAdvancedTopics.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\HomeworkAdvancedTopics\bin\Debug\HomeworkAdvancedTopics.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\HomeworkAdvancedTopics\bin\Debug\HomeworkAdvancedTopics.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\HomeworkAdvancedTopics\obj\Debug\HomeworkAdvancedTopics.csprojResolveAssemblyReference.cache
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\HomeworkAdvancedTopics\obj\Debug\HomeworkAdvancedTopics.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\HomeworkAdvancedTopics\obj\Debug\HomeworkAdvancedTopics.pdb

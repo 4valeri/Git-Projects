@@ -1,0 +1,5 @@
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\15.Extract URLs from Text\bin\Debug\15.Extract URLs from Text.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\15.Extract URLs from Text\bin\Debug\15.Extract URLs from Text.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\15.Extract URLs from Text\bin\Debug\15.Extract URLs from Text.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\15.Extract URLs from Text\obj\Debug\15.Extract URLs from Text.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\15.Extract URLs from Text\obj\Debug\15.Extract URLs from Text.pdb

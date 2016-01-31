@@ -1,0 +1,5 @@
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\05.Sorting Numbers\bin\Debug\05.Sorting Numbers.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\05.Sorting Numbers\bin\Debug\05.Sorting Numbers.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\05.Sorting Numbers\bin\Debug\05.Sorting Numbers.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\05.Sorting Numbers\obj\Debug\05.Sorting Numbers.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\05.Sorting Numbers\obj\Debug\05.Sorting Numbers.pdb

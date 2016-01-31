@@ -1,0 +1,6 @@
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\03.PrimesInGivenRange\bin\Debug\03.PrimesInGivenRange.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\03.PrimesInGivenRange\bin\Debug\03.PrimesInGivenRange.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\03.PrimesInGivenRange\bin\Debug\03.PrimesInGivenRange.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\03.PrimesInGivenRange\obj\Debug\03.PrimesInGivenRange.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\03.PrimesInGivenRange\obj\Debug\03.PrimesInGivenRange.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\03.PrimesInGivenRange\obj\Debug\03.PrimesInGivenRange.csprojResolveAssemblyReference.cache

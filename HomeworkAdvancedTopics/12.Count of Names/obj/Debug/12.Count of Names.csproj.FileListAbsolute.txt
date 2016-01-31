@@ -1,0 +1,5 @@
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\12.Count of Names\bin\Debug\12.Count of Names.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\12.Count of Names\bin\Debug\12.Count of Names.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\12.Count of Names\bin\Debug\12.Count of Names.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\12.Count of Names\obj\Debug\12.Count of Names.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\12.Count of Names\obj\Debug\12.Count of Names.pdb

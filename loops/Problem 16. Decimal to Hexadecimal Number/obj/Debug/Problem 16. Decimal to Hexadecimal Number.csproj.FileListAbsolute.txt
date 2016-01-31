@@ -1,0 +1,5 @@
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 16. Decimal to Hexadecimal Number\bin\Debug\Problem_16.Decimal_to_Hexadecimal_Number.exe.config
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 16. Decimal to Hexadecimal Number\bin\Debug\Problem_16.Decimal_to_Hexadecimal_Number.exe
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 16. Decimal to Hexadecimal Number\bin\Debug\Problem_16.Decimal_to_Hexadecimal_Number.pdb
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 16. Decimal to Hexadecimal Number\obj\Debug\Problem_16.Decimal_to_Hexadecimal_Number.exe
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 16. Decimal to Hexadecimal Number\obj\Debug\Problem_16.Decimal_to_Hexadecimal_Number.pdb

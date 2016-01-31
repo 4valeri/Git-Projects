@@ -1,0 +1,5 @@
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\09.Remove Names\bin\Debug\09.Remove Names.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\09.Remove Names\bin\Debug\09.Remove Names.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\09.Remove Names\bin\Debug\09.Remove Names.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\09.Remove Names\obj\Debug\09.Remove Names.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\09.Remove Names\obj\Debug\09.Remove Names.pdb

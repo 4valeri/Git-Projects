@@ -1,0 +1,5 @@
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 10. Odd and Even Product\bin\Debug\Problem_10.Odd_and_Even_Product.exe.config
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 10. Odd and Even Product\bin\Debug\Problem_10.Odd_and_Even_Product.exe
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 10. Odd and Even Product\bin\Debug\Problem_10.Odd_and_Even_Product.pdb
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 10. Odd and Even Product\obj\Debug\Problem_10.Odd_and_Even_Product.exe
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 10. Odd and Even Product\obj\Debug\Problem_10.Odd_and_Even_Product.pdb

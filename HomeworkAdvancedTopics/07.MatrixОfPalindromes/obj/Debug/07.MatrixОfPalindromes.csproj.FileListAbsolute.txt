@@ -1,0 +1,5 @@
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\07.MatrixОfPalindromes\bin\Debug\07.MatrixОfPalindromes.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\07.MatrixОfPalindromes\bin\Debug\07.MatrixОfPalindromes.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\07.MatrixОfPalindromes\bin\Debug\07.MatrixОfPalindromes.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\07.MatrixОfPalindromes\obj\Debug\07.MatrixОfPalindromes.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\07.MatrixОfPalindromes\obj\Debug\07.MatrixОfPalindromes.pdb

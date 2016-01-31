@@ -1,0 +1,5 @@
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 7. Calculate\bin\Debug\Problem_7.Calculate.exe.config
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 7. Calculate\bin\Debug\Problem_7.Calculate.exe
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 7. Calculate\bin\Debug\Problem_7.Calculate.pdb
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 7. Calculate\obj\Debug\Problem_7.Calculate.exe
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 7. Calculate\obj\Debug\Problem_7.Calculate.pdb

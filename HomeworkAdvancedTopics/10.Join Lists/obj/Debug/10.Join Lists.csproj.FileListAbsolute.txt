@@ -1,0 +1,5 @@
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\10.Join Lists\bin\Debug\10.Join Lists.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\10.Join Lists\bin\Debug\10.Join Lists.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\10.Join Lists\bin\Debug\10.Join Lists.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\10.Join Lists\obj\Debug\10.Join Lists.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\10.Join Lists\obj\Debug\10.Join Lists.pdb

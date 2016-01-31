@@ -1,0 +1,5 @@
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 5. Calculate 1 + 1 X + 2 X2  N XN\bin\Debug\Problem_5.Calculate_1___1_X___2_X2__N_XN.exe.config
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 5. Calculate 1 + 1 X + 2 X2  N XN\bin\Debug\Problem_5.Calculate_1___1_X___2_X2__N_XN.exe
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 5. Calculate 1 + 1 X + 2 X2  N XN\bin\Debug\Problem_5.Calculate_1___1_X___2_X2__N_XN.pdb
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 5. Calculate 1 + 1 X + 2 X2  N XN\obj\Debug\Problem_5.Calculate_1___1_X___2_X2__N_XN.exe
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 5. Calculate 1 + 1 X + 2 X2  N XN\obj\Debug\Problem_5.Calculate_1___1_X___2_X2__N_XN.pdb

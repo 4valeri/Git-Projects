@@ -1,0 +1,6 @@
+c:\users\valeri\documents\visual studio 2015\Projects\loops\Problem 1.Numbers from 1 to N\bin\Debug\Problem 1.Numbers from 1 to N.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\loops\Problem 1.Numbers from 1 to N\bin\Debug\Problem 1.Numbers from 1 to N.exe
+c:\users\valeri\documents\visual studio 2015\Projects\loops\Problem 1.Numbers from 1 to N\bin\Debug\Problem 1.Numbers from 1 to N.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\loops\Problem 1.Numbers from 1 to N\obj\Debug\Problem 1.Numbers from 1 to N.csprojResolveAssemblyReference.cache
+c:\users\valeri\documents\visual studio 2015\Projects\loops\Problem 1.Numbers from 1 to N\obj\Debug\Problem 1.Numbers from 1 to N.exe
+c:\users\valeri\documents\visual studio 2015\Projects\loops\Problem 1.Numbers from 1 to N\obj\Debug\Problem 1.Numbers from 1 to N.pdb

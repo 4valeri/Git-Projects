@@ -1,0 +1,5 @@
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.exe.config
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.pdb
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.exe
+c:\users\valeri\documents\visual studio 2015\Projects\HomeworkAdvancedTopics\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.pdb

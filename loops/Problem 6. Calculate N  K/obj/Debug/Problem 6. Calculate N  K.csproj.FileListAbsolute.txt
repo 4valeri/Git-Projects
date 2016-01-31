@@ -1,0 +1,6 @@
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 6. Calculate N  K\bin\Debug\Problem_6.Calculate_N__K.exe.config
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 6. Calculate N  K\bin\Debug\Problem_6.Calculate_N__K.exe
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 6. Calculate N  K\bin\Debug\Problem_6.Calculate_N__K.pdb
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 6. Calculate N  K\obj\Debug\Problem 6. Calculate N  K.csprojResolveAssemblyReference.cache
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 6. Calculate N  K\obj\Debug\Problem_6.Calculate_N__K.exe
+C:\Users\Valeri\Documents\Visual Studio 2015\Projects\loops\Problem 6. Calculate N  K\obj\Debug\Problem_6.Calculate_N__K.pdb
